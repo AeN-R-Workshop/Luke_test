@@ -3,3 +3,4 @@ apples
 carrots
 chocolate
 pizza
+beer
