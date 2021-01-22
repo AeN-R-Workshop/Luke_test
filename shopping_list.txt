@@ -1,3 +1,5 @@
 potatoes
 apples
 carrots
+chocolate
+pizza
